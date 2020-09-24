@@ -9,9 +9,13 @@ Task 2: Assign to each of the devices(computers, routers etc) an IP address usin
         IP address: 192.168.3.0 /24 (Use VLSM for subnetting)
         
 Task 3 – Basic configuration of switches and routers
+
           Configure switches and routers for the following requirements:
+          
                 a. Hostname of the device 
+                
                 b. Restrict the access to the privileged mode of switch with hashed password
+                
                 c. Restrict the access to the privileged mode of router with hashed password 
                 d. Protect the console and vty terminal lines (for switches and routers)using a local username and
                 password (set as username your name and as password your surname)
