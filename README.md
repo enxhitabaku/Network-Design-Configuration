@@ -18,8 +18,8 @@ Task 3 – Basic configuration of switches and routers
                 
                 c. Restrict the access to the privileged mode of router with hashed password 
                 
-                d. Protect the console and vty terminal lines (for switches and routers)using a local username and
-                password (set as username your name and as password your surname)
+                d. Protect the console and vty terminal lines (for switches and routers)using a local username 
+                    and password (set as username your name and as password your surname)
                 
 Task 4 - VLAN and trunk configuration
 
@@ -35,4 +35,4 @@ Task 6 – Configure the Administrator laptop
           a.Access the switch using telnet and SSH (configure the VLAN in the switch).
           
           b.Configure port security for the interface where the laptop is connected,
-            use restrict violation mode.
+             use restrict violation mode.
